@@ -3,7 +3,7 @@
 
 ## About the project ℹ️
 
-A web app for managing cafeteria 😋 orders without any hassles. I built this project for a mini-project contest conducted by my college and won the 1st prize 🔥
+A web app for managing cafeteria 😋 orders without any hassles. I built this project for a mini-project contest conducted by my college.
 
 ## Motivation 💪
 
